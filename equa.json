@@ -1,0 +1,13 @@
+{
+  "name": "EQUA",
+  "symbol": "EQUA",
+  "description": "EQUA is a community-driven equilibrium experiment token on Solana.",
+  "image": "https://raw.githubusercontent.com/NeoWalkerMods/equa/main/equa.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Experiment"
+    }
+  ]
+}
